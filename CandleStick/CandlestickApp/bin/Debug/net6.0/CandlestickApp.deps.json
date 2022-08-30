@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CandlestickApp/1.0.0": {
+        "dependencies": {
+          "CandleStick": "1.0.0"
+        },
+        "runtime": {
+          "CandlestickApp.dll": {}
+        }
+      },
+      "CandleStick/1.0.0": {
+        "runtime": {
+          "CandleStick.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CandlestickApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CandleStick/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\bin\Debug\net6.0\CandleStick.deps.json
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\bin\Debug\net6.0\CandleStick.dll
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\bin\Debug\net6.0\CandleStick.pdb
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.dll
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\refint\CandleStick.dll
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\CandleStick.pdb
+C:\Users\Tyler\source\repos\CandleStick\CandleStick\obj\Debug\net6.0\ref\CandleStick.dll
